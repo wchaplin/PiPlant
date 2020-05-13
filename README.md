@@ -3,10 +3,13 @@
 Python based web streaming application for monitoring plants.
 <br/>
 <h1>===============TODO===============</h1>
+<br/>
 -Add API call to get current weather conditions
--Overlay weather conditions on stream
--Debug intermittent lag on camera feed
--Create Basic UI
--Banner
--Navigation Bar
--Save Images for timelapse
+<ol>
+<li>Overlay weather conditions on stream/li>
+<li>Debug intermittent lag on camera feed/li>
+<li>Create Basic UI/li>
+<li>Banner/li>
+<li>Navigation Bar/li>
+<li>Save Images for timelapse</li>
+</ol>

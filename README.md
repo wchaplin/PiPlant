@@ -13,3 +13,8 @@ Python based web streaming application for monitoring plants.
 <li>Navigation Bar</li>
 <li>Save Images for timelapse</li>
 </ol>
+Python Instruction 
+<ol>
+<li>install Requests through PIP (py -m pip install requests)	</li>
+</ol>
+
